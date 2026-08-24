@@ -1,0 +1,13 @@
+{
+  "name": "376k-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for 376k.xyz deployed on Cloudflare Pages",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "deploy": "npx wrangler pages deploy ."
+  },
+  "keywords": ["portfolio", "cloudflare-pages", "developer", "systems"],
+  "author": "376K",
+  "license": "MIT"
+}
